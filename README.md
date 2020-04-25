@@ -1,3 +1,3 @@
 # resume
 
-![Resume Screenshot](/resume_preview.png)
+![Resume Screenshot](/resume_preview-1.png)
